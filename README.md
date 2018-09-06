@@ -6,7 +6,6 @@
 
 <p align="center">
   <br>
-  <b>口袋理财 前端开发</b>
   <br>
 </p>
 
